@@ -1,6 +1,6 @@
 # Hi, I am Raquel Lugo
 
-Frontend-focused Full Stack Software Engineer from Costa Rica.
+Full Stack Software Engineer from Costa Rica.
 
 I build scalable web applications with React, TypeScript, and .NET, with a strong focus on clean architecture, API-driven development, and maintainable UI systems.
 
